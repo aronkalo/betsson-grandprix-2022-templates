@@ -1,0 +1,16 @@
+C:\Users\zoka01\source\repos\external\HacathonTemplate\betsson-grandprix-2022-templates\Hacathon.NET\Hacathon.NET\bin\Debug\net6.0\Hacathon.NET.exe
+C:\Users\zoka01\source\repos\external\HacathonTemplate\betsson-grandprix-2022-templates\Hacathon.NET\Hacathon.NET\bin\Debug\net6.0\Hacathon.NET.deps.json
+C:\Users\zoka01\source\repos\external\HacathonTemplate\betsson-grandprix-2022-templates\Hacathon.NET\Hacathon.NET\bin\Debug\net6.0\Hacathon.NET.runtimeconfig.json
+C:\Users\zoka01\source\repos\external\HacathonTemplate\betsson-grandprix-2022-templates\Hacathon.NET\Hacathon.NET\bin\Debug\net6.0\Hacathon.NET.dll
+C:\Users\zoka01\source\repos\external\HacathonTemplate\betsson-grandprix-2022-templates\Hacathon.NET\Hacathon.NET\bin\Debug\net6.0\Hacathon.NET.pdb
+C:\Users\zoka01\source\repos\external\HacathonTemplate\betsson-grandprix-2022-templates\Hacathon.NET\Hacathon.NET\obj\Debug\net6.0\Hacathon.NET.csproj.AssemblyReference.cache
+C:\Users\zoka01\source\repos\external\HacathonTemplate\betsson-grandprix-2022-templates\Hacathon.NET\Hacathon.NET\obj\Debug\net6.0\Hacathon.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoka01\source\repos\external\HacathonTemplate\betsson-grandprix-2022-templates\Hacathon.NET\Hacathon.NET\obj\Debug\net6.0\Hacathon.NET.AssemblyInfoInputs.cache
+C:\Users\zoka01\source\repos\external\HacathonTemplate\betsson-grandprix-2022-templates\Hacathon.NET\Hacathon.NET\obj\Debug\net6.0\Hacathon.NET.AssemblyInfo.cs
+C:\Users\zoka01\source\repos\external\HacathonTemplate\betsson-grandprix-2022-templates\Hacathon.NET\Hacathon.NET\obj\Debug\net6.0\Hacathon.NET.csproj.CoreCompileInputs.cache
+C:\Users\zoka01\source\repos\external\HacathonTemplate\betsson-grandprix-2022-templates\Hacathon.NET\Hacathon.NET\obj\Debug\net6.0\Hacathon.NET.dll
+C:\Users\zoka01\source\repos\external\HacathonTemplate\betsson-grandprix-2022-templates\Hacathon.NET\Hacathon.NET\obj\Debug\net6.0\refint\Hacathon.NET.dll
+C:\Users\zoka01\source\repos\external\HacathonTemplate\betsson-grandprix-2022-templates\Hacathon.NET\Hacathon.NET\obj\Debug\net6.0\Hacathon.NET.pdb
+C:\Users\zoka01\source\repos\external\HacathonTemplate\betsson-grandprix-2022-templates\Hacathon.NET\Hacathon.NET\obj\Debug\net6.0\Hacathon.NET.genruntimeconfig.cache
+C:\Users\zoka01\source\repos\external\HacathonTemplate\betsson-grandprix-2022-templates\Hacathon.NET\Hacathon.NET\obj\Debug\net6.0\ref\Hacathon.NET.dll
+C:\Users\zoka01\source\repos\external\HacathonTemplate\betsson-grandprix-2022-templates\Hacathon.NET\Hacathon.NET\bin\Debug\net6.0\map.json

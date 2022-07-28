@@ -1,0 +1,14 @@
+{
+  "name": "hackathon.node",
+  "version": "0.0.1",
+  "scripts": {
+    "hackathon": "./node_modules/ts-node/dist/bin.js index.ts"
+  },
+  "dependencies": {
+    "ts-node": "^3.2.0",
+    "typescript": "^2.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.7"
+  }
+}
